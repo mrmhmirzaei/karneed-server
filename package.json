@@ -1,0 +1,28 @@
+{
+  "name": "karneed",
+  "version": "1.0.0",
+  "description": "Karneed Server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.4",
+    "nodemailer": "^5.1.1",
+    "request": "^2.88.0",
+    "web-push": "^3.3.0",
+    "zarinpal-checkout": "^0.2.7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "karneed-cli",
+  "version": "0.0.1",
+  "description": "Karneed cli",
+  "main": "app.js",
+  "scripts": {},
+  "bin": {
+    "karneed-cli": "app.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "karneed",
+    "cli"
+  ],
+  "author": "Mr.MHMirzaei",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.1"
+  }
+}
